@@ -19,7 +19,7 @@
 - **Programming Languages:** C, Python, Java  
 - **Web Development:** HTML, CSS  
 - **Core CS:** Data Structures & Algorithms (in progress)  
-- **Areas of Interest:** Blockchain, Software Engineering, Graphics  
+- **Areas of Interest:** Blockchain, Software Engineering, graphics  
 
 ---
 
