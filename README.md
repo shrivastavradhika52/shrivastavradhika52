@@ -38,7 +38,7 @@
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: 
+- LinkedIn:www.linkedin.com/in/radhika-shrivastav-9b3b1b3a1 
 - Email: *(Shrivastavaradhika89@gmail.com)*  
 
 ---
