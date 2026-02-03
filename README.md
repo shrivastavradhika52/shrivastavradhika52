@@ -31,8 +31,8 @@
 ---
 
 ## 🎯 Goals
-- Develop strong software engineering fundamentals  
-- Secure **internships** through consistent practice and projects  
+- Develop strong software engineering fundamentals.  
+- Secure **internships** through consistent practice and projects. 
 - Build impactful projects and contribute to **open-source**  
 
 ---
