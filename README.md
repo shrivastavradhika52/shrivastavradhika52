@@ -28,7 +28,6 @@
   
 - 🔗 Learning Blockchain fundamentals and real-world applications  
 
----
 
 ## 🎯 Goals
 - Develop strong software engineering fundamentals.  
