@@ -16,7 +16,7 @@
 ---
 
 ## 🛠️ Technical Skills
-- **Programming Languages:** C, Python, Java  
+- **Programming Languages:** C, Python, Java ,C++ 
 - **Web Development:** HTML, CSS  
 - **Core CS:** Data Structures & Algorithms (in progress)  
 - **Areas of Interest:** Blockchain, Software Engineering, graphics  
