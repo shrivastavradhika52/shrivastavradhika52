@@ -7,7 +7,7 @@
 ---
 
 ## 👩‍💻 About Me
-- 2nd-year Computer Science undergraduate with a **good foundation in C, Python, and Java**
+- 3rd -year Computer Science undergraduate with a **good foundation in C, Python, and Java**
 - Currently learning **Data Structures & Algorithms** 
 - Exploring **Web Development** and **Blockchain technology**
 - Interested in **Graphics** and core software engineering concepts
