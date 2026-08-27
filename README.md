@@ -1,6 +1,6 @@
 # Welcome to my GitHub profile
 
-🎓 B.Tech Computer Science Engineering student (2nd Year)  
+🎓 B.Tech Computer Science Engineering student (3rd Year)  
 💻 Aspiring Software Engineer  
 🚀 Curious learner with a passion for building and problem-solving
 
@@ -17,7 +17,7 @@
 
 ## 🛠️ Technical Skills
 - **Programming Languages:** C, Python, Java ,C++ 
-- **Web Development:** HTML, CSS  
+- **Web Development:** HTML, CSS, JS basics
 - **Core CS:** Data Structures & Algorithms (in progress)  
 - **Areas of Interest:** Blockchain, Software Engineering, graphics  
 
